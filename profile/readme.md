@@ -1,5 +1,5 @@
  [![icNl7Q.th.png](https://i.328888.xyz/2023/04/09/icNl7Q.th.png)](https://imgloc.com/i/icNl7Q)
-## 京河市模擬鐵路工作室 Tsing Ho City Railway Simulation Studio
+## 京河市模拟铁路工作室 Tsing Ho City Railway Simulation Studio
 
-#### 一間制作不同模擬遊戲作品的工作室。目前主力開發OpenBVE作品。
+#### 一间制作不同模拟游戏的工作室。目前主力开发OpenBVE作品。
 #####  A studio that makes different products for OpenBVE.
